@@ -2,6 +2,7 @@
   "name": "leaflet.mousecoordinate",
   "version": "1.3.0",
   "description": "A Coordinate Mouse Viewer for Leaflet",
+  "main": "dist/leaflet.mousecoordinate.min.js",
   "publishConfig": {
     "registry": "http://registry.npmjs.org/"
   },
